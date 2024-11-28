@@ -53,7 +53,7 @@ const CaptureImage = () => {
             // Set canvas size to match video
             canvas.width = 720;
             canvas.height = 1280;
-
+            
             // Save the current state of the canvas
             context.save();
 
